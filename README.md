@@ -123,4 +123,4 @@
 </details>
 
 ---
-<h6><em> Full credit goes to Badimo, the creators of <a href="https://jb.badimo.org">Jailbreak</a>, and the orginal artists.</em></h6>
+> <h6><em> Full credit goes to Badimo, the creators of <a href="https://jb.badimo.org">Jailbreak</a>, and the orginal artists.</em></h6>
