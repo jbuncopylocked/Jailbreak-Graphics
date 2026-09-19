@@ -102,6 +102,8 @@
 | `Mini Update` | <img height="150" src="https://github.com/jbuncopylocked/Jailbreak-Graphics/blob/main/2026/icons/Mini Update (Jul).png?raw=true" /> <img height="150" src="https://github.com/jbuncopylocked/Jailbreak-Graphics/blob/main/2026/thumbnails/Mini Update (Jul).png?raw=true" /> |
 |||
 | `Season 33` | <img height="150" src="https://github.com/jbuncopylocked/Jailbreak-Graphics/blob/main/2026/icons/Season 33.png?raw=true" /> <img height="150" src="https://github.com/jbuncopylocked/Jailbreak-Graphics/blob/main/2026/thumbnails/Season 33.png?raw=true" /> |
+|||
+| `The Hunt: Roblox 20` | <img height="150" src="https://github.com/jbuncopylocked/Jailbreak-Graphics/blob/main/2026/icons/The Hunt Roblox 20.png?raw=true" /> <img height="150" src="https://github.com/jbuncopylocked/Jailbreak-Graphics/blob/main/2026/thumbnails/The Hunt Roblox 20.png?raw=true" /> |
 
 </details>
 
