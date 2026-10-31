@@ -1,3 +1,4 @@
+
 # **Jailbreak Graphics** <br> [![DSC](https://img.shields.io/badge/.gg/a4FeEk5R3E-2c3376?logo=discord)](https://discord.gg/a4FeEk5R3E) [![YT](https://img.shields.io/badge/@jbuncopylocked-fb0101?logo=youtube)](https://youtube.com/@jbuncopylocked) [![X](https://img.shields.io/badge/@jbuncopylocked-000000?logo=x)](https://x.com/jbuncopylocked) [![RBLX](https://img.shields.io/badge/@BadimoForgottenDev-3156ff?logo=roblox)](https://www.roblox.com/users/4327200522/profile)
 - Some Jailbreak icons and thumbnails that I have saved over time!
 - All of the graphics were saved at the same time as the files in [Jailbreak-SaveInstances](https://github.com/jbuncopylocked/Jailbreak-SaveInstances)
@@ -104,11 +105,13 @@
 | `Season 33` | <img height="150" src="https://github.com/jbuncopylocked/Jailbreak-Graphics/blob/main/2026/icons/Season 33.png?raw=true" /> <img height="150" src="https://github.com/jbuncopylocked/Jailbreak-Graphics/blob/main/2026/thumbnails/Season 33.png?raw=true" /> |
 |||
 | `The Hunt: Roblox 20` | <img height="150" src="https://github.com/jbuncopylocked/Jailbreak-Graphics/blob/main/2026/icons/The Hunt Roblox 20.png?raw=true" /> <img height="150" src="https://github.com/jbuncopylocked/Jailbreak-Graphics/blob/main/2026/thumbnails/The Hunt Roblox 20.png?raw=true" /> |
+|||
+| `Fall` | <img height="150" src="https://github.com/jbuncopylocked/Jailbreak-Graphics/blob/main/2026/icons/Fall.png?raw=true" /> <img height="150" src="https://github.com/jbuncopylocked/Jailbreak-Graphics/blob/main/2026/thumbnails/Fall.png?raw=true" /> |
 
 </details>
 
 <details>
-<summary><h4>Subplaces</h4></summary>
+<summary><h3>Subplaces</h3></summary>
 
 | Update | Graphics |
 | :- | :-: |
