@@ -107,6 +107,8 @@
 | `The Hunt: Roblox 20` | <img height="150" src="https://github.com/jbuncopylocked/Jailbreak-Graphics/blob/main/2026/icons/The Hunt Roblox 20.png?raw=true" /> <img height="150" src="https://github.com/jbuncopylocked/Jailbreak-Graphics/blob/main/2026/thumbnails/The Hunt Roblox 20.png?raw=true" /> |
 |||
 | `Fall` | <img height="150" src="https://github.com/jbuncopylocked/Jailbreak-Graphics/blob/main/2026/icons/Fall.png?raw=true" /> <img height="150" src="https://github.com/jbuncopylocked/Jailbreak-Graphics/blob/main/2026/thumbnails/Fall.png?raw=true" /> |
+|||
+| `The Takeback` | <img height="150" src="https://github.com/jbuncopylocked/Jailbreak-Graphics/blob/main/2026/icons/The Takeback.png?raw=true" /> <img height="150" src="https://github.com/jbuncopylocked/Jailbreak-Graphics/blob/main/2026/thumbnails/The Takeback.png?raw=true" /> |
 
 </details>
 
